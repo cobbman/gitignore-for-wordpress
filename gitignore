@@ -29,7 +29,7 @@
 #          https://salferrarello.com/wordpress-gitignore/                   
 #
 # From the root of your project run
-# curl -O https://raw.githubusercontent.com/bigwilliam/gitignore-for-wordpress/master/gitignore
+# curl -O .gitignore https://raw.githubusercontent.com/bigwilliam/gitignore-for-wordpress/master/gitignore
 # to download this file
 #
 # By default all files are ignored.  You'll need to whitelist
