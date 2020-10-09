@@ -115,7 +115,7 @@ Thumbs.db
 *.zip
 
 # -----------------------------------------------------------------------------
-# BEGIN Whitelisted Files
+# BEGIN Allow-listed Files
 # -----------------------------------------------------------------------------
 
 # track these files, if they exist
